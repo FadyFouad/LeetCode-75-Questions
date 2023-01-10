@@ -1,7 +1,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="1080" alt="Leetcode logo"/> 
 
----
+![--------](https://raw.githubusercontent.com/FadyFouad/blog/master/assets/images/rainbow.png?token=GHSAT0AAAAAAB33Y2LPNUL5KCEDMD4QVO5MY54QALA)
+
 
 Blind 75 LeetCode Questions
 =================
