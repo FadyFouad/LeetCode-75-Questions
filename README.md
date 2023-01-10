@@ -22,6 +22,7 @@ Include a brief description of the problem and solution.
 | Array |    121     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |   `Easy`   | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/BestTimeToBuyAndSellStock) |
 | Array |    217     |              [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              |   `Easy`   |     [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/ContainsDuplicate)     |
 | Array |    238     |    [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)    |  `Medium`  | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/ProductOfArrayExceptSelf)  |
+| Array |     53     |    [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)    |  `Medium`  | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/MaxSubArray)  |
 
 [//]: # (||||||)
 
