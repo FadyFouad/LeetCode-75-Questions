@@ -1,6 +1,6 @@
 package BestTimeToBuyAndSellStock;
 
-public class BestTimeToBuyAndSellStock {
+public class Solution {
     public int maxProfit(int[] prices) {
         // edge case: empty or single-element array
         if (prices == null || prices.length < 2) {
