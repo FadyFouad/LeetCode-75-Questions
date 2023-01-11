@@ -1,4 +1,4 @@
-### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 # Problem Description
 Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
