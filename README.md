@@ -28,6 +28,7 @@ Include a brief description of the problem and solution.
 | Array |    152     |                   [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                   |  `Medium`  |      [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/MaximumProductSubarray)      |
 | Array |    153     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |  `Medium`  | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/main/src/MinimumInRotatedSortedArray) |
 | Array |     15     |                 [3Sum](https://leetcode.com/problems/3sum/)                 |  `Medium`  | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/blob/f314710bacc6e25bc957e3435ac16a3997a4b116/src/_3sum/) |
+| Array |    371     |                 [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)                 |   `Easy`   | [Click Here](https://github.com/FadyFouad/LeetCode-75-Questions/tree/c8ce8131b0b4c057e76976ab45422d8c90c07370/src/SumOfTwoIntegers) |
 
 [//]: # (||||||)
 
